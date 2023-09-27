@@ -1,7 +1,5 @@
 # Solana Defi Util CLI
 
-CLI utilities to support Lucra
-
 # Quick start
 
 ```bash
